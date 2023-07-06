@@ -34,6 +34,7 @@ Online Tutorials and Resources:
 -  How to Section Your HTML:  https://css-tricks.com/how-to-section-your-html/
 -  CSS Type, Class and ID Selectors:  https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors
 -  8 Semantic HTML Tags to Make Your Website Accessible, Neat, and Modern:  https://www.makeuseof.com/semantic-html-tags-to-make-website-more-accessible/
+-  Professional README Guide by edX Boot Camps LLC:  https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 University of California Irvine Full Stack Development Bootcamp 2023 Resources:
 
